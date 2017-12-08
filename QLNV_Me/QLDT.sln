@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLDT", "QLNV\QLDT.csproj", "{24B57C9D-D3D1-4A0B-B237-F5E3F3595266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhanVienKernel", "NhanVienKernel\NhanVienKernel.csproj", "{6B03C03A-300D-404B-A434-EC0D0AB8912F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B57C9D-D3D1-4A0B-B237-F5E3F3595266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B57C9D-D3D1-4A0B-B237-F5E3F3595266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B57C9D-D3D1-4A0B-B237-F5E3F3595266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B57C9D-D3D1-4A0B-B237-F5E3F3595266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B03C03A-300D-404B-A434-EC0D0AB8912F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B03C03A-300D-404B-A434-EC0D0AB8912F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B03C03A-300D-404B-A434-EC0D0AB8912F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B03C03A-300D-404B-A434-EC0D0AB8912F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

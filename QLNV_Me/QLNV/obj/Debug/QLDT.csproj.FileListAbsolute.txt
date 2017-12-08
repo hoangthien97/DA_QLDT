@@ -1,0 +1,17 @@
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\QLNV.exe.config
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\QLNV.exe
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\QLNV.pdb
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.dll
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.pdb
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLDT.csprojResolveAssemblyReference.cache
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.FormLogin.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.Form1.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.FormHoaDon.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.FormNV.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.FormThemDienThoai.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.MainForm.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLDT.csproj.GenerateResource.Cache
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.exe
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.pdb
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.FormLDT.resources

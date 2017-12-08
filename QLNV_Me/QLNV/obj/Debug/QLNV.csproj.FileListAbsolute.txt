@@ -1,0 +1,150 @@
+c:\users\kira\documents\visual studio 2015\Projects\QLNV\QLNV\bin\Debug\QLNV.exe.config
+c:\users\kira\documents\visual studio 2015\Projects\QLNV\QLNV\bin\Debug\QLNV.exe
+c:\users\kira\documents\visual studio 2015\Projects\QLNV\QLNV\bin\Debug\QLNV.pdb
+c:\users\kira\documents\visual studio 2015\Projects\QLNV\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+c:\users\kira\documents\visual studio 2015\Projects\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+c:\users\kira\documents\visual studio 2015\Projects\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+c:\users\kira\documents\visual studio 2015\Projects\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+c:\users\kira\documents\visual studio 2015\Projects\QLNV\QLNV\obj\Debug\QLNV.exe
+c:\users\kira\documents\visual studio 2015\Projects\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\Kira\Documents\Visual Studio 2015\Projects\QLNV\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+C:\Users\Kira\Documents\Visual Studio 2015\Projects\QLNV\QLNV\obj\Debug\QLNV.FormChamCong.resources
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\obj\Debug\QLNV.FormChamCong.resources
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+C:\Users\PhamLocIT\Documents\Visual Studio 2013\Projects\QLNV\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\bin\Debug\NhanVienKernel.exe
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\bin\Debug\NhanVienKernel.pdb
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\obj\Debug\QLNV.FormChamCong.resources
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\ducclp.UFSVIETNAM\Desktop\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\Night\Desktop\Work\Do An\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\Night\Desktop\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\Night\Desktop\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.pdb
+E:\Work\Do An\QLNV\QLNV\bin\Debug\QLNV.exe.config
+E:\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.exe
+E:\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.pdb
+E:\Work\Do An\QLNV\QLNV\bin\Debug\QLNV.exe
+E:\Work\Do An\QLNV\QLNV\bin\Debug\QLNV.pdb
+E:\Work\Do An\QLNV\QLNV\bin\Debug\NhanVienKernel.exe
+E:\Work\Do An\QLNV\QLNV\bin\Debug\NhanVienKernel.pdb
+E:\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+E:\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+E:\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+E:\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.FormChamCong.resources
+E:\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\Work\Do An\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+E:\Work\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe.config
+E:\Work\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.exe
+E:\Work\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.pdb
+E:\Work\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Form1.resources
+E:\Work\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+E:\Work\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormChamCong.resources
+E:\Work\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\Work\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+E:\Work\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe
+E:\Work\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.pdb
+E:\Work\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.dll
+E:\Work\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.exe
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.pdb
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormChamCong.resources
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.pdb
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.dll
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe.config
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.exe
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.pdb
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.pdb
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.dll
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Form1.resources
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormChamCong.resources
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe.config
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.exe
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.pdb
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.pdb
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.dll
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Form1.resources
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormChamCong.resources
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe.config
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.exe
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.pdb
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.pdb
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.dll
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Form1.resources
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormChamCong.resources
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.exe
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.pdb
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.exe
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\bin\Debug\QLNV.pdb
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.dll
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.pdb
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormBangChamCong.resources
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormChamCong.resources
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\QLNV\obj\Debug\QLNV.FormLogin.resources
+C:\Users\PhamLocIT\Desktop\CHUYEN_DE_2\QLNV_Me\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\PhamLocIT\Desktop\CHUYEN_DE_2\QLNV_Me\QLNV\obj\Debug\QLNV.exe
+C:\Users\PhamLocIT\Desktop\CHUYEN_DE_2\QLNV_Me\QLNV\obj\Debug\QLNV.pdb
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\QLNV.exe.config
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.exe
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.pdb
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\QLNV.exe
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\QLNV.pdb
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.dll
+E:\csdlnc\QLNV_Me\QLNV\bin\Debug\NhanVienKernel.pdb
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.FormLogin.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.Form1.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.FormHoaDon.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.FormNV.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.FormThemDienThoai.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.FormThemLDT.resources
+E:\csdlnc\QLNV_Me\QLNV\obj\Debug\QLNV.GUI.MainForm.resources

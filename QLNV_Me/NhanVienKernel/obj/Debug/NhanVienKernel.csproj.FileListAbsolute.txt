@@ -1,0 +1,31 @@
+E:\Work\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.dll
+E:\Work\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.dll
+E:\Work\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.pdb
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.dll
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.pdb
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.dll
+C:\Users\Kira\Desktop\QLNV\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.dll
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.dll
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_30.3.2017.616\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.csprojResolveAssemblyReference.cache
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.dll
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.dll
+E:\Work\QLNV_1.4\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.dll
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.pdb
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.dll
+E:\Work\QLNV_2.4\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.pdb
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.dll
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.pdb
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.csprojResolveAssemblyReference.cache
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.dll
+C:\Users\PhamLocIT\Desktop\BC CĐ 2\QLNV_Final\QLNV_Software\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.pdb
+E:\csdlnc\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.dll
+E:\csdlnc\QLNV_Me\NhanVienKernel\bin\Debug\NhanVienKernel.pdb
+E:\csdlnc\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.dll
+E:\csdlnc\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.pdb
+E:\csdlnc\QLNV_Me\NhanVienKernel\obj\Debug\NhanVienKernel.csprojResolveAssemblyReference.cache
